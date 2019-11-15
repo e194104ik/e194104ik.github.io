@@ -20,9 +20,12 @@ h3{
 }
 
 h5{
-    color:coral;
-    
+    color:coral; 
 }
+
+ol{background-image: url(../images/mokuhen.jpg)}
+
+table{background-color:coral}
 
 body{
     background-image:url("../images/rh9381-fk.jpg");

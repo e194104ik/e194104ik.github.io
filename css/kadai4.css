@@ -1,3 +1,7 @@
+body{
+    background-color: aliceblue;
+    background-image: url(../images/rh9381-fk.jpg);
+}
 
 h1#set{
     color:floralwhite;   
@@ -22,11 +26,11 @@ h2#sehrs{
     font-weight:bold;
     font-family:"impact"
 }
+
 h2#fors{
     color:blue;
     text-align: center;
     background-color: cadetblue
 }
-
 
 
